@@ -1,5 +1,5 @@
-# Kolay responsive tasarımı
+# Responsive Fiyat Listesi
 
-`Kaynak:` [Responsive design made easy](https://www.youtube.com/watch?v=bn-DQCifeQQ)
+`Kaynak:` [Building a Pricing Section With Tailwind CSS](https://www.youtube.com/watch?v=WMGFQwewVa4)
 
 ![](2022-05-28-18-07-35.png)
